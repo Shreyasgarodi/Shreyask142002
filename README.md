@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on python.
 - 🌱 I’m currently learning everything...🤣
-- 👯 I’m looking to collaborate with NASA🤣
+- 👯 I’m looking to collaborate with tech field🤣
 - ⚡ Fun fact: I like to travel n explore
 
 ### Connect with me:
