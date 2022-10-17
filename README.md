@@ -6,10 +6,10 @@
 <img align="right" alt="face" width="210" height="224.6" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif">
 <img align="right" alt="error" width="300"  src="https://cdn.dribbble.com/users/4047034/screenshots/9176275/media/b40e0d6c115634a62ec51c9b68a16f3f.gif">
 
-- 🔭 I’m currently working on cyber security :)
+- 🔭 I’m currently working on python.
 - 🌱 I’m currently learning everything...🤣
-- 👯 I’m looking to collaborate with other cybersec analysts
-- ⚡ Fun fact: I like to draw and play piano
+- 👯 I’m looking to collaborate with NASA🤣
+- ⚡ Fun fact: I like to travel n explore
 
 ### Connect with me:
 
