@@ -2,14 +2,21 @@
 
 
 [![@shreyask14's Holopin board](https://holopin.io/api/user/board?user=shreyask14)](https://holopin.io/@shreyask14)
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100"/>
+</div>
+
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47tw10o2kwdagxl8hmwj2eyujr3cv30fg5bbv1s26q&rid=giphy.gif&ct=g" width="1000"  height="400"/>
+</div>
 
 
-<img align="right" alt="face" width="210" height="224.6" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif">
-<img align="right" alt="error" width="300"  src="https://cdn.dribbble.com/users/4047034/screenshots/9176275/media/b40e0d6c115634a62ec51c9b68a16f3f.gif">
+---
 
-- 🔭 I’m currently working on python.
+### :woman_technologist: About Me :
+- :seedling: Exploring Technical Content Writing.
+- :zap: In my free time, I read tech articles and Car magazine.
 - 🌱 I’m currently learning everything...🤣
-- 👯 I’m looking to collaborate with tech field🤣
 - ⚡ Fun fact: I like to travel n explore
 
 ### Connect with me:
@@ -23,7 +30,15 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/shreyas_garodi#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/shreyas_garodi#gh-dark-mode-only)
 
-### Languages and Tools:
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+</div>
+
 
 ![visual studio code](https://img.shields.io/badge/-vscode-333333?style=flat&logo=C%2B%2B&logoColor=vscode)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -35,16 +50,16 @@
 ![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=Terminal)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 
+---
 
+### :fire: My Stats :
 
-### Github Stats:
+<img alt="Shreyas k's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shreyask142002&theme=react-dark&area=true" width="100%">
 
-<img alt="Shreyas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shreyask142002&theme=react-dark&area=true" width="100%">
-
-<img align="right" alt="coding" width="330"  src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="coding" width="330" height="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyask142002&theme=dark&count_private=true"  />
 <!--gif-->
-<img align="right" alt="coding" width="330"  src="https://media.tenor.com/JPX5iWzkrfQAAAAS/akudama-drive-anime.gif">
+<img align="right" alt="coding" width="330"  src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 <!---->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreyask142002&show_icons=true&theme=dark&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyask142002&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true"/>
