@@ -1,5 +1,5 @@
 # Hello folks!👋 
-![](https://komarev.com/ghpvc/?username=shreyask14&color=brightgreen&styl=plastic)
+![](https://komarev.com/ghpvc/?username=shreyask14&color=brightred&styl=plastic)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![@shreyask14's Holopin board](https://holopin.io/api/user/board?user=shreyask14)](https://holopin.io/@shreyask14)
