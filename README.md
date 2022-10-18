@@ -10,7 +10,7 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47tw10o2kwdagxl8hmwj2eyujr3cv30fg5bbv1s26q&rid=giphy.gif&ct=g" width="1000"  height="400"/>
 </div>
----
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### :woman_technologist: About Me :
 - :seedling: Exploring Technical Content Writing.
