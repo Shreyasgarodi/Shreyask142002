@@ -8,10 +8,10 @@
 
 
 #  *Hello folks! It's Shreyas.K👋*
-#  *My passion for software lies with dreaming up ideas and making them come true with elegant interfaces*.
-# *I am a open-source enthusiast and maintainer,and I love how collaboration and knowledge sharing happened through open-source*
+### *My passion for software lies with dreaming up ideas and making them come true with elegant interfaces*.
+###  *I am a open-source enthusiast and maintainer,and I love how collaboration and knowledge sharing happened through open-source*
 
-
+# *My Digital badges*
 [![@shreyas1223's Holopin board](https://holopin.me/shreyas1223)](https://holopin.io/@shreyas1223)
 [![@shreyask14's Holopin board](https://holopin.io/api/user/board?user=shreyask14)](https://holopin.io/@shreyask14)
  
