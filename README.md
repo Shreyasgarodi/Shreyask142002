@@ -77,7 +77,7 @@
 
 <div id="header" align="center">
 
-### ✍️ Random Dev Quote
+###   *✍️ Random Dev Quote*
 
 </div>
 
