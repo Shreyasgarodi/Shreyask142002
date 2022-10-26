@@ -75,13 +75,19 @@
 <!--gif-->
 
 
-
-
-
-
+<div id="header" align="center">
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+</div>
+
+
+<div id="header" align="center">
+
+  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+  
+</div>
+
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreyask142002&show_icons=true&theme=dark&count_private=true" />
