@@ -93,8 +93,10 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreyask142002&show_icons=true&theme=dark&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyask142002&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreyask142002&show_icons=true&theme=dark&count_private=true"  width="75%" />
+                                                                                                                                                   
+                                                                                                                                                   
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyask142002&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true" width="75%"/>
 
 ## 🏆 *GitHub Trophies*
 ![](https://github-profile-trophy.vercel.app/?username=shreyask142002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
