@@ -7,9 +7,11 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#  *Hello folks! It's Shreyas.K👋*
-### *My passion for software lies with dreaming up ideas and making them come true with elegant interfaces*.
-###  *I am a open-source enthusiast and maintainer,and I love how collaboration and knowledge sharing happened through open-source*
+*![](https://readme-typing-svg.herokuapp.com?size=35&color=5C89F7&background=3FCBFF00&center=true&multiline=true&width=1000&height=90&lines=Hey+there%2C+I'm+Shreyas+k!!👋🏻;+Welcome+To+My+Profile!!😇+)*
+
+
+## *My passion for software lies with dreaming up ideas and making them come true with elegant interfaces*.
+##  *I am a open-source enthusiast and maintainer,and I love how collaboration and knowledge sharing happened through open-source*
 
 # *My Digital badges*
 [![@shreyask14's Holopin board](https://holopin.io/api/user/board?user=shreyask14)](https://holopin.io/@shreyask14)
